@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="11926" started-at="2020-11-09T11:08:23Z" finished-at="2020-11-09T11:08:35Z">
+    <groups>
+    </groups>
+    <test name="C:/Users/Mohd Arshad Nasim/Documents/CoinMarketCapBack-endTests/src/test" duration-ms="11926" started-at="2020-11-09T11:08:23Z" finished-at="2020-11-09T11:08:35Z">
+      <class name="com.backend.runner.BackEndTask_3">
+        <test-method status="PASS" signature="firstTenCurrenciesVerification()[pri:0, instance:com.backend.runner.BackEndTask_3@1b604f19]" name="firstTenCurrenciesVerification" duration-ms="3854" started-at="2020-11-09T11:08:31Z" finished-at="2020-11-09T11:08:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTenCurrenciesVerification -->
+      </class> <!-- com.backend.runner.BackEndTask_3 -->
+      <class name="com.backend.runner.BackEndTask_2">
+        <test-method status="PASS" signature="currencyInfoAPIVerification()[pri:0, instance:com.backend.runner.BackEndTask_2@1593948d]" name="currencyInfoAPIVerification" duration-ms="2059" started-at="2020-11-09T11:08:29Z" finished-at="2020-11-09T11:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currencyInfoAPIVerification -->
+      </class> <!-- com.backend.runner.BackEndTask_2 -->
+      <class name="com.backend.runner.BackEndTask_1">
+        <test-method status="PASS" signature="retrieveAndConvertCurrency()[pri:0, instance:com.backend.runner.BackEndTask_1@482f8f11]" name="retrieveAndConvertCurrency" duration-ms="5969" started-at="2020-11-09T11:08:23Z" finished-at="2020-11-09T11:08:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- retrieveAndConvertCurrency -->
+      </class> <!-- com.backend.runner.BackEndTask_1 -->
+    </test> <!-- C:/Users/Mohd Arshad Nasim/Documents/CoinMarketCapBack-endTests/src/test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

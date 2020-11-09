@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Mohd Arshad Nasim/Documents/CoinMarketCapBack-endTests/src/test">
+        <classes>
+            <class name="com.backend.runner.BackEndTask_1"></class>
+            <class name="com.backend.runner.BackEndTask_2"></class>
+            <class name="com.backend.runner.BackEndTask_3"></class>
+        </classes>
+    </test>
+</suite>
